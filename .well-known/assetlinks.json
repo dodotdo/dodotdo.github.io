@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.dodotdo.vocalup",
+        "sha256_cert_fingerprints":
+          ["42:E5:F3:7F:F1:6C:8A:28:CE:A0:CA:EE:49:CE:F4:1E:07:07:04:4F:56:39:CA:88:B7:F4:12:FA:C6:84:8F:3F"]
+      }
+    }
+  ]
